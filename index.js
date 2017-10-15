@@ -15,7 +15,7 @@ function sayHiToGrandma(string){
     return "I can't hear you!"
   }else if (string.toUpperCase()===string) {
     return "Stop shouting at me!"
-  }else string.toMixedCase()===string {
+  }else (string.toMixedCase()===string) {
     return "I love you too"
   }
 }
